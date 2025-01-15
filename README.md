@@ -4,7 +4,7 @@
 
 
 ### 1.- ¿Qué es un widget?
-    En Flutter nos podríamos referir a un widget como a un componente o bloque que en conjunto con otros bloques, pueden formar una interfaz interactiva o estatica dependiendo la aplicación. Pueden ser customizados o podemos crear nuestros propios widgets.
+    En Flutter nos podríamos referir a un widget como a un componente o bloque que en conjunto con otros bloques, pueden formar una interfaz interactiva o estática dependiendo la aplicación. Pueden ser customizados o podemos crear nuestros propios widgets.
 
 ### 2.- Menciona 4 ejemplos de widgets nativos
     - Scaffold
@@ -14,7 +14,7 @@
 
 
 ### 3.- ¿Cómo ejecutar código nativo desde flutter?
-    Para ejecutar código nativo desde flutter utilizamos MethodChannel que nos ayudara a comunicarnos con el código (Kotlin o Switf) para obtener la data que llega a través de este puente, poder utilizar sensores, la cámara u obtener información del dispotivo.
+    Para ejecutar código nativo desde flutter utilizamos MethodChannel que nos ayudará a comunicarnos con el código (Kotlin o Switf) para obtener la data que llega a través de este puente, poder utilizar sensores, la cámara u obtener información del dispositivo.
 
 ### 4.- ¿Qué es el gestor de estados? Menciona 2
     Una forma de gestionar el comportamiento de nuestra aplicación para hacerla reactiva y funcional (la forma más sencilla puede ser usando setState()).
